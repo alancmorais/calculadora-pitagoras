@@ -1,6 +1,6 @@
-# Calculadora de Área e Perímetro de um Círculo
+# Calculadora que usa o Teorema de Pitágoras
 
-Calculadora em Javascript que permite calcular a área de um círculo
+Calculadora em Javascript que permite calcular a hipotenusa de um triângulo retângulo utilizando o teorema de Pitágoras.
 
 Para facilitar deixamos o código todo no index. Este projeto usa Bootstrap.
 
